@@ -10,11 +10,11 @@ A real-time weather application built with [Streamlit](https://streamlit.io/) an
 
 This app lets you check live weather data for any city around the world. It uses the free OpenWeatherMap Current Weather API and displays:
 
-- 🌡️ Temperature (current, feels-like, min, max)
-- 📋 Weather condition with an emoji icon
-- 💧 Humidity
-- 💨 Wind speed
-- 🌍 City name and country
+- Temperature (current, feels-like, min, max)
+- Weather condition with an emoji icon
+- Humidity
+- Wind speed
+- City name and country
 
 Your API key is entered securely via the sidebar (password-masked) and is **never stored or logged**.
 
