@@ -2,7 +2,7 @@
 
 A real-time weather application built with [Streamlit](https://streamlit.io/) and the [OpenWeatherMap](https://openweathermap.org/) API. Enter any city name and instantly see the current temperature, weather condition, humidity, wind speed, and more — all in a clean, dark-themed UI.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)][(https://weatherapp-8keslrcnbnbebcmkigqg2w.streamlit.app/)]
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://weatherapp-8keslrcnbnbebcmkigqg2w.streamlit.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-WeatherApp-24292e?logo=github&style=flat-square)](https://github.com/gituserc1140/WeatherApp)
 [![Sponsor me on GitHub](https://img.shields.io/badge/Sponsor%20me%20on-GitHub-EA4AAA?logo=githubsponsors&style=flat-square)](https://github.com/sponsors/gituserc1140)
 
