@@ -146,6 +146,13 @@ def main():
         help="Enter your API key here, or configure OPENWEATHERMAP_API_KEY in Streamlit secrets/environment.",
     )
 
+    st.sidebar.markdown(
+        '<p style="font-size:0.78rem; margin:0.4rem 0 0.6rem;">'
+        'Need a key? <a href="https://home.openweathermap.org/api_keys" target="_blank" '
+        'style="color:#0369a1;">Get a free API key ↗</a></p>',
+        unsafe_allow_html=True,
+    )
+
     st.sidebar.markdown("---")
     st.sidebar.markdown(
         """
